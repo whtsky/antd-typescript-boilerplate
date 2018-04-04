@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": ".",
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+        "moduleResolution": "node"
+    },
+    "files": [
+        "index.tsx"
+    ],
+    "exclude": [
+        "node_modules",
+    ]
+}
